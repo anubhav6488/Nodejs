@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@zohocrm/nodejs-sdk-2.0": "^6.0.0",
+    "api": "^5.0.7",
+    "crm": "^1.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mysql": "^2.18.1",
+    "zoho": "^1.0.0"
+  },
+  "name": "insert-update-delete-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhav6488/Nodejs.git"
+  },
+  "author": "anubhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anubhav6488/Nodejs/issues"
+  },
+  "homepage": "https://github.com/anubhav6488/Nodejs#readme",
+  "description": ""
+}
