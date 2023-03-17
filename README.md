@@ -1,4 +1,4 @@
 # Nodejs
-![Alt Text](https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif width="250" height="250") 
+![Alt Text](https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif) 
 
 
